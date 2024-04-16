@@ -6,7 +6,7 @@ if n1 %2 == 0:
         print("O Numero é Positivo")
     else:
         print("O Numero é Negativo")
-elif n1 %3 == 0:
+elif n1 %1 == 0:
     print ("O número ", n1, "é ímpar.")
     if n1 > 0:
         print("O Numero é Positivo")
