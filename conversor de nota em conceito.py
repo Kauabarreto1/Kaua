@@ -1,5 +1,5 @@
 nota = float(input("Qual a sua nota? "))
-if nota >= 9:
+if nota >= 9 and nota <= 10:
     print ("Você tirou nota A.")
 elif nota >= 7.5 and nota <= 9:
     print ("Sua nota foi B.")
